@@ -4,7 +4,7 @@
 
 I'm a Master of Science in Business Analytics student focused on turning complicated data into applicable insights. I'm especially drawn to sport performance and baseball analytics.
 
-**Connect:** [LinkedIn] (www.linkedin.com/in/colin-foil) · colin.foil.76@gmail.com · [Resume] (https://drive.google.com/file/d/1deiiUMHh1zHWVfukJfAfq97FddF2n5Kx/view?usp=sharing)
+**Connect:** [LinkedIn](www.linkedin.com/in/colin-foil) · colin.foil.76@gmail.com · [Resume](https://drive.google.com/file/d/1deiiUMHh1zHWVfukJfAfq97FddF2n5Kx/view?usp=sharing)
 
 ## Tech Stack
 
