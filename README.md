@@ -1,8 +1,8 @@
-# [Your Name] — MSBA Analytics Portfolio
+# Colin Foil — MSBA Analytics Portfolio
 
 ## About Me
 
-[2-3 sentences on your "data identity." What draws you to analytics? What kind of problems do you want to solve? Example: "I'm a Master of Science in Business Analytics student focused on turning messy data into decisions that move revenue. I'm especially drawn to [marketing / healthcare / sports / supply chain] analytics."]
+I'm a Master of Science in Business Analytics student focused on turning complicated data into applicable insights. I'm especially drawn to sport performance and baseball analytics.
 
 **Connect:** [LinkedIn URL] · [Email] · [Resume link]
 
